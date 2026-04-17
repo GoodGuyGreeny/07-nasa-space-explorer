@@ -19,9 +19,6 @@ I built an interactive web application that connects to NASA's Astronomy Picture
 - NASA APOD API
 ```
 
-## 📸 Preview
-*Add screenshots or GIF here*
-
 ## 📚 What I Learned
 - **API Integration**: Working with real-world REST APIs and handling authentication
 - **Asynchronous Programming**: Implementing async/await for smooth data fetching
